@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Natures goodnight. Or, A sermon preached in the parish-church of Bovitracy in Devon, at the funerall of the vertuous and godly Mrs. Mary Forbes, the great loss and sorrow of the neighbour-hood. By Fra: Moore, curate of soules at Highweek</title>
+            <author>Moore, Francis, curate of Highweek.</author>
+         </titleStmt>
+         <extent>Approx. 88KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26965</idno><idno type="EEBO-CITATION">99825525</idno>
+  <idno type="VID">173130</idno>
+  <idno type="EEBO-PROQUEST">2248510962</idno>
+  
+            <idno type="STC">Wing M2543</idno>
+            <idno type="STC">ESTC R212967</idno>
+            <idno type="PROQUEST">99825525</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825525e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173130)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1955:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Natures goodnight. Or, A sermon preached in the parish-church of Bovitracy in Devon, at the funerall of the vertuous and godly Mrs. Mary Forbes, the great loss and sorrow of the neighbour-hood. By Fra: Moore, curate of soules at Highweek</title>
+                  <author>Moore, Francis, curate of Highweek.</author>
+               </titleStmt>
+               <extent>[8], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.G. and are to be sold by Francis Eglesfield at the Marigold in S. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in Dr. Williams's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Forbes, Mary, d. 1656 --  Early works to 1800.</term>
+               <term type="topical_term">Funeral sermons --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173130:1"/>
+            <p>Natures Goodnight.</p>
+            <p>OR, A SERMON Preached in the Parish-Church of <hi>Bovitracy</hi> in <hi>DEVON, At the Funerall of the vertuous and godly Mrs.</hi> Mary Forbes, <hi>the great loss and sorrow of the Neighbour-hood.</hi>
+            </p>
+            <p>By <hi>FRA: MOORE,</hi> Curate of soules at <hi>Highweek.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Catull.</hi>
+               </bibl>
+               <l>Soles occidere &amp; redire possun<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</l>
+               <l>Nobis, cum semel occidit brevis lux,</l>
+               <l>Nox est perpetua una dormienda.</l>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Dan. 12.2.</hi>
+               </bibl> And many of them that sleep in the dust of the earth, shall awake.</q>
+            <q>
+               <bibl>
+                  <hi>Cant. 5.2.</hi>
+               </bibl> I sleep, but my heart waketh.</q>
+            <q>
+               <bibl>
+                  <hi>Ephes. 5.24.</hi>
+               </bibl> Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> and are to be sold by <hi>Francis Eglesfield</hi> at the Marigold in S. <hi>Paul</hi>'s Church-yard. 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173130:2"/>
+            <pb facs="tcp:173130:2"/>
+            <head>TO The rich Exemplar of Vertue &amp; Piety, the incomparably good Lady, the Lady <hi>Margaret Courtney.</hi>
+            </head>
+            <opener>
+               <salute>Excellent MADAM,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have much laboured in this my first birth, not for its production, but suppressiō: I could wish it had not been born, or to have died in the hour it was brought forth, but that more than Egy<g ref="char:EOLhyphen"/>ptian-Midwifery, Importunity, irresistibly prevailed to deliver it to this publique life.</p>
+            <p>And now a new affliction arrests me, (as poor parents who have strength to bring forth, but not ability to bring up) having no milk in either breast of private worth, or publique reputation; I was at a losse to
+<pb facs="tcp:173130:3"/> get it nursed to a preservation, untill my memory (which is plentifull with instances of your Ladyships goodness) suggested your frequent and charitable condescentions to support the poore and their issue. This gave me hope it might live by your favour; and being adopted through the ordinance of preaching into the dignity of a Sermon, I presume to a confidence your Ladyship will allow it not onely your eye, but your counte<g ref="char:EOLhyphen"/>nance. In the strength of this assurance I humbly lay it at your Ladyships feet, and there I should think this piece sufficiently secured, but that Envy will thrust into heaven it self, and it may possibly be more than whispered, that it is unhandsome and unseasonable to present a Sceleton, dry bones and a drier skull to a Lady in the eminen<g ref="char:EOLhyphen"/>cy and splendor both of youth and nobleness. I am therefore necessitated to take San<g ref="char:EOLhyphen"/>ctuary
+<pb facs="tcp:173130:3"/> in the closet of your devotions, and to tell such objectors they are either ignorant of, or injurious to the Religion of your La<g ref="char:EOLhyphen"/>dyships studies &amp; applyments; which are not vain'd away in the modish trifles of an empty visit to the living, but improved in materiall providence, preparative addresses to, &amp; me<g ref="char:EOLhyphen"/>ditationall converses with the dead, watch<g ref="char:EOLhyphen"/>fully observing, that a Ladyes Chamber is not fortified against, nor priviledged from the approches of Mortality more than the Cattage of a Villager. That a Dimple is as lively an Emblem of the Grave, as a Wrinkle, and veyns brimm'd, full, and high, with blood, may as soon be emptyed by an accident, as those that are leakish with age. — <hi>In the midst of life we are in death</hi>—who pays no reverence by distinction to Person, Time, or Place.</p>
+            <p>Moreover, as the Sun is so placed in the
+<pb facs="tcp:173130:4"/> firmament, that he shews us the Flowers be<g ref="char:EOLhyphen"/>low him (which are the Stars of the earth) and the Stars above him (which are the Flowers of heaven;) so a Funerall Sermon directs the eye of your sense to the grave in the earth beneath, but the eye of your faith to a throne in heaven above; a more glorious spectacle cannot be shown or seen. If yet any crooked thoughts shall labour to infer a Danger where I onely intend a Duty, it may be my miserie, not my fault: for this Paper is not designed so much to wait on your Person as on your Piety; and reflects not on any Interest but what is Eternall. It charges not your Ladyship with any expectation of new or great Fa<g ref="char:EOLhyphen"/>vours. It enjoyes its perfect end if it dis<g ref="char:EOLhyphen"/>charge the least of the old. And I hope I may still be a Servant where I am no longer an Attendant; a Votary, though
+<pb facs="tcp:173130:4"/> not Meniall; and send the duty of my gratitude in the devotion of Prayer, where I cannot carry it in the service of my person.</p>
+            <p>Ʋpon the indulgence of this favour, <hi>I</hi> end my Epistle (as <hi>I</hi> hope <hi>I</hi> shall my life) in hearty and unwearied prayers for the <hi>constancy of Health,</hi> the <hi>accumulati<g ref="char:EOLhyphen"/>on of Graces,</hi> and the <hi>eternity of Glo<g ref="char:EOLhyphen"/>ries</hi> on your <hi>pious Person,</hi> your <hi>noble Associate,</hi> and the <hi>precious Pledges</hi> of your mutuall love. The performance of this duty will highly delight and perpe<g ref="char:EOLhyphen"/>tually exercise the entire Capacities of</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>
+                  <hi>Your Ladyships most humble, &amp; most thank<g ref="char:EOLhyphen"/>fully obliged Servant,</hi> FRA: MOORE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:173130:5"/>
+            <pb n="1" facs="tcp:173130:5"/>
+            <head>Natures Good-night.</head>
+            <epigraph>
+               <bibl>
+                  <hi>LUKE 8.52.</hi>
+               </bibl>
+               <q>And all wept and bewailed her; But he said, Weepe not, she is not dead but sleepeth.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Life is divided into labour and rest, which <hi>Na<g ref="char:EOLhyphen"/>ture</hi> wisely hath contrived into <hi>waking</hi> and <hi>sleeping,</hi> in an admirable manner provi<g ref="char:EOLhyphen"/>ding the preservation of our being by a see<g ref="char:EOLhyphen"/>ming dissolution of it. We must intermit it to continue it: Die we must one half of the natu<g ref="char:EOLhyphen"/>rall day, that we may live the other; Lie down and sleep (as it were) to <hi>die in the night,</hi> that we may awake and arise to <hi>live on the morrow;</hi> so well acquainted is our Life with Death, that our whole age appeares the Changes and Intercourse of both. Nay this kinde of death is that which continueth life: Such is the frailty of the Creature, that it immedi<g ref="char:EOLhyphen"/>ately owes its being to a kinde of not being, to a priva<g ref="char:EOLhyphen"/>tion, though not simply of life, yet—<hi>Tali</hi>— to something very well like death. For tell me, strongest C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nstitution! how long canst thou labour without the relief of rest? how long canst thou awake without refreshment of sleep? <hi>Jacobs</hi> an<g ref="char:EOLhyphen"/>swer— <hi>Few and evil would our dayes be.</hi>
+               <note place="margin">Gen. 47.9.</note> Those losses and de<g ref="char:EOLhyphen"/>cayes
+<pb n="2" facs="tcp:173130:6"/> the body suffers (by labour) in the day, are repaired by rest at night: as if the feigned plague of <hi>Titius</hi> liver were our reall blessing;
+<q>
+                  <note place="margin">
+                     <hi>Sen Thyest.</hi> sc. 1.</note>Et nocte reparans quicquid amisit die.</q> The animal and vitall spirits wearied with sore travel of the day, retire to recruit new strength to their comfortable logings, that in the brain, this in the heart; refr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shed by sleep, inable the mor<g ref="char:EOLhyphen"/>ning body with new and lively vigour, which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elfe would fall into its principles, <hi>dead d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st and earth.</hi> Now crazy and infirm bo<g ref="char:EOLhyphen"/>dies requ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re longer and more frequent sleeps; whereby we see the breaches of Nature are for a while made up and fortified: b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t when the body is irreparably wasted, beyond the remedy of these often but short sleeps, then is it necessary it fall into tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long sle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p▪ then <hi>perpetuus sopor urget,</hi> the whole night of death must recover such a losse; no repairing this tenement, but by pulling it down to the ground. Though to Man Death may seem a Murtherer, yet to Humanity it is a Physitian; to the hope<g ref="char:EOLhyphen"/>lesse Heathen the Grave is (a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was theirs) a fire, and Death<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perishing; but to the faithfull Christian the Grave is a bed, and Death sleeping: all such we may unite into Christs singular, what he sayes of one we may of all, <hi>They are not dead but sleep.</hi>
+            </p>
+            <q>Non mortua est sed dormit.</q>
+            <p>
+               <note place="margin">1 Thes. 4.13, 14.</note>
+               <hi>But I would not have you to be ignorant, Brethren, concerni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g them which are asleep, that ye sorrow not, as others that have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: For if we believe that Jesus dyed and rose againe; even s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them which sleep in Jesus, will God bring with him,</hi> as affirms St. <hi>Paul.</hi>
+               <note place="margin">John 11.12.</note> Whence it appeares, that if she sleep, she shall do well: and shall we take it ill, that our friends are we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l? shall we be troubled upon earth, because our friends are at rest under it? Forbid it Religion!<note place="margin">Aug.</note>
+               <hi>pereat contristatio, ubi tanta est cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Be not ye sad because your friend is gone to a state of joy.</hi>
+            </p>
+            <p>If Nature sadned at departure, will let fall a tear, let Faith g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ned with hopes of meeting again, wipe away that teare. Wre<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> not with the decrees of Heaven, nor murmur at the proced<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="3" facs="tcp:173130:6"/> of its providence; 'twas God that closed her eyes in sleep, that forbids your eyes to weep. <hi>Weep not,</hi> (for) <hi>she is not dead but sleepeth.</hi>
+            </p>
+            <p>The division of this Text is made to my hands by the meeting of this Congregation, three parties are visible in the presence. Which discover three parts legible in the words:
+<list>
+                  <item>1. The Dead, — <hi>Shee.</hi>
+                  </item>
+                  <item>2. The Mourners, — <hi>All wept.</hi>
+                  </item>
+                  <item>3. The Preacher, — he said, <hi>Weep not.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>These parts, upon review, are like those sheep, <hi>Cant.</hi> 4.2. whereof every one beares Twins:
+<list>
+                  <item>1. In the Dead is considerable
+<list>
+                        <item>1. <hi>Her Person.</hi>
+                        </item>
+                        <item>2. <hi>Her Condition.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>In her Person her
+<list>
+                        <item>Age — <hi>Short.</hi>
+                        </item>
+                        <item>Sex — <hi>Wretched.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Her Condition, which is —
+<list>
+                        <item>Negative, <hi>not dead.</hi>
+                        </item>
+                        <item>Affirmative, <hi>but sleepeth.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2. In the Mourners remarkable
+<list>
+                        <item>1. Number of Mourners - <hi>All</hi>
+                        </item>
+                        <item>2. Weight of Mourning — <hi>Wept and bewailed.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>3. In the Preacher,—
+<list>
+                        <item>1. His Doctrine — <hi>Weep not.</hi>
+                        </item>
+                        <item>2. His Reason, for ye mistake her case—<hi>She is not dead,</hi> &amp;c.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Begin we with the Dead: But is not <hi>mors ultima linea?</hi>
+               <note place="margin">
+                  <hi>1 Cor. 15.26.</hi> Sapiens semper incipi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> à sine.</note> Death the last? shall the last be first? Is not Death the end? shall we begin at the end? Yes, wise men do so; our endea<g ref="char:EOLhyphen"/>vours, thoughts, devotions, come to no end, if not begun at the end to come.— Remember thy beginning and thou wilt seldom do amisse; (that dust will allay thy pride) but remember thy end
+<pb n="2" facs="tcp:173130:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:173130:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:173130:8"/> and thou wilt never, (those ashes will quench thy wild-fires▪) The consideration of Death gives life to our considerations, and our thoughts doe then flourish, when we are thinking our thoughts shall perish. The Egyptians sold their funerall balmes in the Temple of <hi>Venus;</hi> that where they prayed for Nativity, they might be remembred of Mortality: our first voice is Crying, our Baptisme a Buriall, our first Character Christ crosse, the tree of Death; nor is it improper to enter early on death for our Instruction, since death entred so early on us for our Destru<g ref="char:EOLhyphen"/>ction,<note place="margin">John 8.44.</note> even from the beginning; a woman speaking with the ill spirit brought death first to our party, in counter-working by the good spirit, we in the beginning will speak of a woman brought to her death, which is the first party,— <hi>Shee.</hi>
+            </p>
+            <p>
+               <note place="margin">Mark 5.42.</note>Shee was of the age of twelve yea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, as is marked by the Evangelists; miserable brevity, is it not? for if one thousand years upon account with eternity, make not up one present day, are but as yesterday p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st, worn out, and gone, as it is <hi>Psal.</hi> 90.4. surely twelve yeares, nay stretch life to its old standard-number of seventy, and all will not amount to an houre, a minute; no, a minute may challenge some proportion with six thousand yeares, because it is a Chip or Drop of time, but sixe thousand yeares cannot pretend to any share or neighbourhood with Eternity: Because the Angel makes an Affidavit that time shall be no more. Therefore <hi>David</hi> (though he did very foolishly to number his people,<note place="margin">2 Sam. 24.10.</note> swelling the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st to hundreds of thousands, that he might appeare something be<g ref="char:EOLhyphen"/>fore men;) yet did he very wisely to number his dayes, shrink<g ref="char:EOLhyphen"/>ing the account beneath the least article of time, that he might be nothing before God. <hi>Mine age is as nothing before thee, Psal.</hi> 39.5. Before God! nay nothing before us. For the son of <hi>David</hi> that sifted vanity even to the husks,<note place="margin">Eccles. 3.2.</note> sayes, <hi>there is a time to be borne, and a time to dye,</hi> none it seemes to live, for that which is past of our age, is dead in transaction, and will not be recalled because it cannot return. <hi>Quicquid aetatis retrò est mors tenet,</hi> that which is to come, is dead in uncertainty: so that nothing but the very pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is life, &amp; that present is so near to nothing, that it will not stay with us whilst we can say it is. It is gone before we can say it is here. Well said that Oracle of
+<pb n="5" facs="tcp:173130:8"/> God, <hi>Surely every man walketh in a vaine shadow;</hi>
+               <note place="margin">Psal. 39.6.</note> but nearer home to our frailty spo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that miracle of men, <hi>He shall flie away as a dreame,</hi> Job 20.8. the slow pace of Walking is improved into Flying, and the Shadow emptied into a Dream. Two Nothings, which can never make any one thing; though they have been long since married together by <hi>Pindar,</hi> who calls life the dream of a shadow. Good God! what vainer than a shadow? which is nothing in it self, being but a privation of light framed by the opposition of a thick body to a lu<g ref="char:EOLhyphen"/>minous. Is any thing so empty as a Dream, which hath no sub<g ref="char:EOLhyphen"/>sistence, but in the hollownesse of a sleepy brain? A Fairy-round of Chimericall Semblances, a dance of Phantasies Antiques, neither of them having any reality or true being in na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>So vain, so frivolous a thing is man— is she— that in the strength of youth may fall to dust, whose very Noon may be eclipsed into a shadow, nay so highly uncertain, so slippery our station, that we cannot assure our selves from falling, that short while we can say we stand; nor can I tell whiles I am spea<g ref="char:EOLhyphen"/>king, whether I shall have breath enough to end this pe<g ref="char:EOLhyphen"/>riod.</p>
+            <p>But grant our lives to be <hi>Digitis à morte remotae quatuor aut septem,</hi> a span long,<note place="margin">
+                  <hi>Juvenal.</hi> Psal. 39.5.</note> yet is that life but as a span forced from a gouty hand, the farther it reacheth, the more it torments the owner. Spinne we this thred of life to eighty, yet is it but la<g ref="char:EOLhyphen"/>bour and sorrow, we are but as she is in the next considera<g ref="char:EOLhyphen"/>tion.</p>
+            <p>A woman (that is) a miserable creature,<note place="margin">Sexus.</note>
+               <hi>She</hi> the Ocean where misery is in its originall, and still at home the Channell, through which it is conveyed, and walks abroad; sorrow was not onely invested on her person, <hi>Gen.</hi> 3.16 but generally intail'd on her posterity, <hi>Job</hi> 14.1. Every birth is heire to a new cala<g ref="char:EOLhyphen"/>mity, <hi>Job</hi> 5.7. the sorrowes of women are so many, so compre<g ref="char:EOLhyphen"/>hensive, as that when they who speak as m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved by the holy Ghost, would expresse the multitude and grievance of those calamities which war, and ruine, and finall desolation leave upon a people, they wrap up all in this, <hi>The sorrowes of a travailing w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man shall come upon him,</hi> Hos. 13.13.</p>
+            <pb facs="tcp:173130:9"/>
+            <p>Christ about to describe that prodigy of vengeance on the Jewes, that irresistible subversion of their state, burying their Temple in its own ashes;<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Josephus</hi> de ex cid. l. 5. c. 28. Mat. 24.</note> crucifying their persons, till there were no Crosses left to beare Bodies, nor ground left to beare Crosses; burning a thousand in one fire, and scattering the remainder into the state of Slaves and Vagabonds upon the face of the earth by <hi>Titus,</hi> encompassing <hi>Jerusalem</hi> with Ar<g ref="char:EOLhyphen"/>mies. The prologue to this wofull Tragedy, he calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the beginning of throwes and pangs of a woman in tra<g ref="char:EOLhyphen"/>vaile.</p>
+            <p>
+               <hi>Titus</hi> having taken it (to pay the Jewes in their own coyn) impressed on his Medalls (made for the celebration of this Conquest) a woman leaning her back to a Palm, with this In<g ref="char:EOLhyphen"/>scription on the reverse, <hi>Judaea capta.</hi>
+            </p>
+            <p>But the sorrowes of Woman, it seems, exceed the calamities of a single Nations ruine; for when S. <hi>Paul</hi> would expresse the universall suffering of the whole Creation from <hi>Adams</hi> first groan to the last sigh of the last creature he sayes but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Rom. 8.22.</note> it travaileth in pains together.</p>
+            <p>Not onely the suffering of the Creation but of the Creator, those unparalell'd and unexpressible pains of Christ on the Crosse to redeem us from paines under the Crosse. St. <hi>Peter</hi> having no word of heavier or bitterer signification, sayes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Act.</hi> 2.24. the paines, or pangs, or travaile of death, indeed the sorrows first threatned to woman for her first being in transgression.<note place="margin">Gen. 3.16.</note>
+            </p>
+            <p>Now tell me, Beloved, is not she a fit emblem of misery, who is so fruitfull a mother of it? Must she not have a mighty spawn of misery at home, who brings forth such numerous sholes of sorrows every day and every where?<note place="margin">De venenis ob<g ref="char:EOLhyphen"/>ser. <hi>1. schol.</hi>
+               </note> Or is woman in general like her in <hi>Forestus,</hi> healthfull in her self and poysonous to all others? Shall the whole Creation groan,<note place="margin">Est. 4.13.</note> and she only sing? Shall <hi>Esther</hi> think to escape more than all the Jews? No: but as <hi>Mary</hi> weeping at <hi>Christs Sepulchre,</hi> did represent the state of mankind, so is wo<g ref="char:EOLhyphen"/>man here not only the occasion but figure of all humane misery.<note place="margin">Ecclus. 25.24. 1 Tim. 2.14. Psal. 16.11.</note>
+               <hi>Of the woman came the beginning of sin, and through her we all die. Quemcunque miserum videas hominem scias.</hi> Misery is the pro<g ref="char:EOLhyphen"/>per heraldry of mankinde, man is no longer man, than whiles
+<pb n="7" facs="tcp:173130:9"/> he is calamitable; advance him above woe,<note place="margin">Wisd. 7 3.</note> and you shall seat him in heaven, <hi>There onely is pleasure for evermore.</hi> The world is a sea, into which we lanch upon the water of our own teares; the first voice is crying, as do all; and the first salutation the Mexicanes give their Infants is, <hi>Thou art come into the world to suffer;</hi> endure, suffer and hold thy peace. <hi>Et vita nostra navi<g ref="char:EOLhyphen"/>ganti similis,</hi> we faile through our lives in sorrow for others,<note place="margin">Greg.</note> and sufferance for our selves, in a valley of teares; and at death, drawing nigh the port, they that follow us, land us in the grave with their teares. So the circle of life is made up, beginning and ending in teares, as the old world, <hi>Gen.</hi> 1.2. begun, and <hi>Gen.</hi> 7.24. ended in waters.</p>
+            <p>Moreover, we have an unhappy kind of thrift to improve this stock of sorrow, by study, memory, and anticipation.<note place="margin">Eccl. 1. <hi>ult.</hi>
+               </note>
+               <hi>In much wisdome is much grief, and he that increaseth knowledge inc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>easeth sorrow,</hi> by searching into possible evils, which the unthinking man avoids; the memory of neglected opportunities, and the fear of accidentall evills torment us; whatsoever the mis-conceit presents to the phantasie, straight we are posse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sed with it, the smallest probability arising from any <hi>omen</hi> that may forespeak an ill, distracts our minds with an excesse of feare, so we torture our selves with that which may be a long time coming, and per<g ref="char:EOLhyphen"/>haps not light at all.</p>
+            <p>Not to grieve you with farther consideration of our griefs, be it enough to say, That the misery of our body is the body of misery; but the misery of our soul is the very soul of misery.<note place="margin">Job 14.1.</note> And as man that is born of a woman is of few dayes, and full of trouble, so woman that is begotten by man, is not of long time, nor empty of trouble. Certainly — <hi>She is not.</hi>
+            </p>
+            <p>Thus have ye the Chronicle and Map of our life, the time and state, short in number, deep in sorrow; a considerati<g ref="char:EOLhyphen"/>on able to batter downe all imaginary palaces wheresoever erected, either to Eternity or Felicity, in this world. <hi>Non sumus hujus mundi incolae, sed advenae;</hi>
+               <note place="margin">
+                  <hi>A lapi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Dan. 2.</note> an Indian Prince told <hi>Ale<g ref="char:EOLhyphen"/>xander.</hi> We have here no abiding City, no city for pleasure, nor abiding for duration: <hi>But few and evil have the dayes of my life been,</hi> is the summe of all; <hi>Ex una disce omnes, Here she was,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g.</note>
+               <hi>but is not.</hi>
+            </p>
+            <pb facs="tcp:173130:10"/>
+            <p>
+               <note place="margin">Is not dead.</note>
+               <hi>Her Condition Negative:</hi> Her soul is absent from her body, yet I cannot say it carried away all life, since the body is as it were animated with hope; for where hope is there is some life; <hi>Hope is lively,</hi> 1 Pet. 1.3 which is something more than living: Hope hath a reviving faculty, <hi>Gen.</hi> 45 7. <hi>Jacobs</hi> hope to see <hi>Joseph</hi> revived his spirit: And <hi>David</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>balmes his body with this hope of resurrection, <hi>Psal</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6 9 <hi>My flesh shall rest in hope.</hi> So dye we may say she did, but <hi>de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d she is not.</hi>
+            </p>
+            <p>Neither <hi>Mortalis mortua,</hi> nor <hi>m rti obnoxia,</hi> as the Schooles interpret,<note place="margin">Rev. 14.13.</note> not actually depriv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d or all life, so are not the righte<g ref="char:EOLhyphen"/>ous that die in the Lord, <hi>who are bego<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ten to a lively hope, by the resurrection of Jesus Christ from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he dead;</hi>
+               <note place="margin">1 Pet. 1.3.</note> whence the Jewes called their Church-yard <hi>Domus viventium:</hi> nor liable and sub<g ref="char:EOLhyphen"/>ject to death, as a condemned malefactor; no, death hath no power over them, either way —<hi>She is not dead.</hi>
+            </p>
+            <p>But what? Exclusively; some others are as if Death and Love had really changed quivers; the arrow is aimed at our breast, they who die in the Lord are not dead, but we who live in the flesh;<note place="margin">Revelat. 3.1. <hi>Paulus in som<g ref="char:EOLhyphen"/>nio.</hi> Scip. Tul.</note>
+               <hi>We have a name that we live, but we are dead,</hi> a life falsely so called, <hi>Vestra verò quae dicitur vita mors est,</hi> said the dead to the living, our life is but imaginative and suppository, <hi>Esay</hi> 29.8. Custome more than Reason, makes us believe we live. Stand not our feet in the gates of Death? <hi>Psal.</hi> 9.13. Is not our walk in the shadow of Death? <hi>Psal.</hi> 23.4. Do not we dwell in the body of death?<note place="margin">Sen Ep. 98.</note>
+               <hi>Rom.</hi> 72.4. <hi>mortale est omne morta<g ref="char:EOLhyphen"/>lium bonum,</hi> said <hi>Metrodorus</hi> to his sister, all things about us die; the yeare dies piece-meal, the Spring dies into the Summer, and in Funerall pomp is deck'd with flowers; the Summer dies into Autumn,<note place="margin">Concreto riguit vinct<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> repentu gelu. <hi>Mart. l. 4. Ep. 95.</hi> Heraclitus.</note> and is cut down by the sithe and sickle; the Autumne dies and is buried (as <hi>Martialls</hi> viper) in the frozen grave of Winter. Each day is shrowded in its evening, and covered over with the black of night, as a departed thing. So die the Elements; the Fire is buried (as <hi>Mahumet</hi>) in the Aire; the Aire (as the old world is buried in Water;<note place="margin">
+                  <hi>Sen.</hi> Ep. 24:</note>
+               <hi>Quotidiè mori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur,</hi> we that are made of them die as fast: our life but a frequent dying, our severall ages so many funerall dayes; our Infancy dies into our Youth; our Youth is dead and buried in the wrinkles of old age, and Age is soon interr'd in dust and ashes;
+<pb n="9" facs="tcp:173130:10"/> for where death hath entred his plough to furrow up our cheeks, he means ere long there to bring his sithe,<note place="margin">Quomodo dici<g ref="char:EOLhyphen"/>tur vita tot ge<g ref="char:EOLhyphen"/>nerans mortes? A Kempis de imitatione Chri<g ref="char:EOLhyphen"/>sti. <hi>lib. 3. c. 20.</hi>
+               </note> to mow down the stalk; <hi>Cum crescimus vita decrescit,</hi> the taller we grow, the shorter our lives; how dare we then call that life which is but the variety of the severall Stages and Scenes of Death?</p>
+            <p>Again, if <hi>(Non est vivere sed valere vita)</hi> Health be the cha<g ref="char:EOLhyphen"/>racter of life, consider the multitude and frequencies of Diseases, the ill disposure of the<note n="*" place="margin">
+                  <hi>In medio Tibu<g ref="char:EOLhyphen"/>re Sardinia est.</hi> Mart. l. 4. Epig. 60.</note> Aire, the arrests of the Gout, and earth<g ref="char:EOLhyphen"/>quakes of the Ague, an haire in the Throat, or the errour of a Crumb in its passage down: consider those killing Griefs, those piercing Sorrowes, these wounding Cares, which continually annoy us; from these calamities we may confesse <hi>we die daily;</hi>
+               <note place="margin">1 Cor. 15.31. <hi>Sen: ep.</hi> 15.</note> and from others calumny we are killed all the day long. Once more, if <hi>valere</hi> be <hi>Philosophari,</hi> and to live in sin is to be dead, the Egyptians cry will fill all our mouths, <hi>Exo.</hi> 12.33. <hi>we are all but dead men.</hi>
+            </p>
+            <p>Who sits not down apposed with S. <hi>Austin (nescio utrum)</hi> I know not whether best to call the time we spend here, a dying life, or a living death; but for the faithfull departed, they— <hi>She is not dead but sleepeth.</hi>
+            </p>
+            <p>Exclusively again, as much as to say, we shall not all sleep; or,<note place="margin">But. 1 Cor. 15.51.</note> but, <hi>As for the ungodly it is not so with them,</hi> Psal. 1.5. the act of the soul's relinquishing the body is the same in all, though it may differ in some circumstance according to the person: yet the condition of all after death is not the same. Some are truly dead, not losing their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not ceasing to be,<note place="margin">Hierocles.</note> but conti<g ref="char:EOLhyphen"/>nuing to be miserable, others are not dead but sleep. The death of the righteous is but for the moment wherein he is changed, &amp; begins his sleep; but of a sinner that expires his soul in guilt, it is for ever: his death I may call immortall, a death without death, of whose death Christ is not the death, as he hath promi<g ref="char:EOLhyphen"/>sed the pious, Hos. 13.14. <hi>ero mors tua ô mors.</hi>
+            </p>
+            <p>How can ye think they shall sleep, whose damnation sleeps not? A Worm alwayes gnawing within them; a Fire perpetu<g ref="char:EOLhyphen"/>all flashing about them;<note place="margin">Mark 9.44:</note> and the fury and scourge of Vengeance still upon them; their Sorrowes and Woes ever awaking; their Conscience eternally pricking and wounding, every Sin prin<g ref="char:EOLhyphen"/>ting
+<pb n="10" facs="tcp:173130:11"/> a particular Plague on them, their souls thus afflicted in a place of restlesse torment, their body an accursed thing, which even a Devil can assume; and though it want a soul, yet is it strangely animated with confounding horrour, that it must be the vessel whereinto God will poure endlesse and everlasting wrath. Can such sleep (think ye) who lodge in beds of flaming Brimstone, &amp; in sheets of boyling Lead? Those forlorn expressions which Scripture delivers their departure in, denies us all such hopes. <hi>They are dead, they shall not live, they are fallen, they shal not rise,</hi> Esay 26.14. Mark, dead from this life, and shall not live in the other; fallen now, and shall not rise then, or if rise, but as <hi>Pharaoh</hi>'s Baker,<note place="margin">Gen. 40.20. and 22. Psal. 1.5.</note> from the prison to the gibbet, <hi>for they shall not be able to stand in judgement,</hi> Psal. 1.5. I am sure not stand to what they have done. Sad Strapado! to be hoys'd in<g ref="char:EOLhyphen"/>to the clouds to fall into the bottomlesse pit! miserable advance of a shell fish by a bird into the aire, to receive his death by a fall!</p>
+            <p>Consider this all ye that forget God, lest he take you away suddenly, and there be none to help: consider that Gods wayes are not as Mans; the guilty and innocent doe lie in like cu<g ref="char:EOLhyphen"/>stody till the great Assize and Gaol-delivery; through one gate a Citizen may walk to his recreation, and a thief be led to his execution; the Sheep &amp; Goat may feed together during life, but the Sheepherd of our souls separates them by death: the Wheat and Chaff may lye together in the floor, <hi>But he whose fan it i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his hand,</hi>
+               <note place="margin">Mat. 3.13.</note>
+               <hi>will throughly purge his floor, and gather his wheat i<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> his garner, but will burn the chaff with unquenchable fire.</hi> Death as the red Sea, divides the Israelite from the Egyptian, <hi>Exod.</hi> 14.13. they shall see each other no more for ever. <hi>Recept<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> est pauper,</hi>
+               <note place="margin">
+                  <hi>Aug.</hi> tract. in Joh. 46.</note>
+               <hi>receptus dives; Lazarus</hi> into <hi>Abrahams bosome, where is fulnesse of joy; Dives</hi> into Hell, where is the complement of misery; misery so extreme, it stupifies our thoughts, excee<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our commiseration; for how can we lament what we cannot ap<g ref="char:EOLhyphen"/>prehend, what we cannot remedy, unlesse we weep <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Solon</hi> for his Sonne's death, because weeping could n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> help?</p>
+            <p>On the other side, could our sickly faith but apprehend the transcendent happinesse of those that sleep, could we confide
+<pb n="11" facs="tcp:173130:11"/> that they who serve at the Altar on earth,<note place="margin">Rev. 6.3.</note> lie under the Altar in heaven, safer far from condemnation than those that flee to the Altar here; that they who leaned on Christs bosom here, and sucked the sincere milk of his Word to their spirituall growth, now lie in <hi>Abrahams</hi> bosome, that is in the familiarity and so<g ref="char:EOLhyphen"/>ciety of God; that the servants of God do presently from death enter into their Masters joy; We should be ravished with joy,<note place="margin">Dear friends are in the bo<g ref="char:EOLhyphen"/>some, Ioh. 1.18</note> not a teare should fall unlesse for private respects; not weep for them, but for our selves; not that they are absent from us, but that we are not present with them; indeed not weep at all, but for joy that one is gone, whose good life and our charity suggests her translatted into a state of rest and sleep. <hi>Weep not, She is not dead but sleepeth.</hi>
+               <note place="margin">Sleepeth.</note>
+            </p>
+            <p>—<hi>Her Affirmative Condition.</hi>
+            </p>
+            <p>The journey of an Israelite indeed towards the heavenly <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> is like that of the Israelites in name toward the earthly: much hindered by the many evil reports that are brought up of the way to this good Land.<note place="margin">Iob 18.14. Numb. 13.32.</note> Death they say is the King of ter<g ref="char:EOLhyphen"/>rours; the Grave a <hi>Sarcophagus, a land that eateth up the inha<g ref="char:EOLhyphen"/>bitants thereof, a land of darknesse and oblivion,</hi> Psal 88.12. Now that we may not fear where no fear is, God is pleased to pull out this sting of Death, and shew us our dissolution in the most pleasant representation of sleep, — <hi>Not dead but sleepeth.</hi>
+            </p>
+            <p>So well was Nature's Secretary instructed,<note place="margin">Lib. 3. cap. 6. Lib. 5. cap. 1.</note> that although in his Ethicks he startles at Death as the most terrible, yet in his <hi>De Ge<g ref="char:EOLhyphen"/>neratione</hi> he tells us, the interval of living and not living, is sleep, and his reason is, because Nature proceedeth but <hi>gradatim,</hi> from one extreme to another, as if he knew the onely <hi>medium</hi> to bring the evening of Life to the dawn of the Resurrection, were the night of Death. Some of their own Poets say much like it; Sleep in <hi>Seneca</hi> is <hi>Frater durus languidae mortis,</hi> in <hi>Ovid,</hi>
+               <note place="margin">Herc. sur. Nihil morti e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tam simile quam som<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us. <hi>Cic. de Senec. Ecclus 34.3.</hi>
+               </note>
+               <hi>mortis Imag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Death's younger Brother and resemblance. Awaken your attention to some Analogies which passe betwixt them, we shall conclude as Siracides of the visions of Dreames, <hi>That sleep and death are the resemblance of one another, as the likenesse of face to face.</hi>
+            </p>
+            <p>Sleep and Death like two irresistible Conquerours agree first in their generall invasion.</p>
+            <pb n="12" facs="tcp:173130:12"/>
+            <p>Sleep with his poppy Scepter seizeth the universall World▪ all ages, sexes and degrees, submit their eyes to the captivation and victory of Sleep.</p>
+            <p>And is not Death as Catholique a King? Doth not he in<g ref="char:EOLhyphen"/>vade us as <hi>David</hi> did the <hi>Geshurites? He smote the land, and left neither man nor woman alive,</hi> 1 Sam. 27.9. as <hi>Tacitus</hi> observes in the confusion of <hi>Antonius</hi> war, <hi>Nec dignitas nec aetas prote<g ref="char:EOLhyphen"/>gebat.</hi> So Death reverenceth not the gravity of age, not pi<g ref="char:EOLhyphen"/>ties the tendernesse of youth; the softnesse of sex he spareth not; the meanest escape not through poverty, nor doth dig<g ref="char:EOLhyphen"/>nity protect the highest, but without distinction destoyes all. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>— Death is bold as <hi>Caesar</hi> to <hi>tax the whole world,</hi>
+               <note place="margin">
+                  <hi>Theog</hi> pag. 19. line <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>07.</note> Luke 2.1. <hi>The grave is without any order,</hi> Job 10.22. <hi>for there are small and great,</hi> Job 3.19. <hi>Goliah</hi> and <hi>David,</hi> the Giant not too big, the Dwarf not too little to fill a Tomb; Sculls of all sizes in <hi>Golgotha: The wise men die as well as the fool,</hi> Psal. 49 10. <hi>Solomon</hi> and <hi>Rehoboam,</hi> Old and Young, <hi>Me<g ref="char:EOLhyphen"/>thusalem</hi> and <hi>Jeroboams</hi> child.<note place="margin">1 King. 16.12.</note>
+            </p>
+            <q>
+               <l>
+                  <note place="margin">
+                     <hi>Hor.</hi> car. 1. od. 28.</note>Mista senum ac juvenum densantur funera, nullum</l>
+               <l>—Saeva caput Proserpina fugit.</l>
+            </q>
+            <p>Good and Bad, <hi>Cain</hi> and <hi>Abel;</hi> Rich and Poore, <hi>Dives</hi> and <hi>Lazarus,</hi> Luke 16.22. The nimblenesse of <hi>Asahel</hi> could not out<g ref="char:EOLhyphen"/>run it; the beauty of <hi>Absalom</hi> could not charm it; nor could <hi>Sampsons</hi> strength wrestle with it without receiving a fall.<note place="margin">2 Sam. 2.18, 29. Epist. 12.</note> A reason you may have from <hi>Seneca, Non enim citamur ex cens<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Death examines not the Register-book for our Age, nor the Rate-book for our Estates, nor the Heraulds-book for our Ho<g ref="char:EOLhyphen"/>nours: <hi>But death passeth upon all, for that all have sinned,</hi> Rom. 5.12. Nay Death found a passage where Sin had made none, even the most <hi>holy Jesus</hi> was <hi>dead and buried. Nec potuit ali<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> habere exitus,</hi>
+               <note place="margin">
+                  <hi>Aug.</hi> Acts 17.3.</note>
+               <hi>It behoved Christ to suffer,</hi> Luke 24. saith Christ himself; being born he lay not under a possibility, but ne<g ref="char:EOLhyphen"/>cessity of dying.<note place="margin">Psal. 89.48.</note>
+               <hi>What man is he then that liveth and shall not f<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> death?</hi> since the Prince of life did die, since God himself did not, would not, indeed could not escape it. Thus Death's invasion is a generall rule without any exception, or exception of any.</p>
+            <pb n="13" facs="tcp:173130:12"/>
+            <p>Well then (beloved) since all we that live must die, let us all die whilst we live; there is no countermine against the death of the body without us, but by killing the body of death within us; to die daily is the onely way to live for ever; Mortification is Immortality; pluck out the sting of death, and there will be no smart in it, but Death and Sleep will be alike. <hi>A mortified man is not dead but sleepeth.</hi>
+            </p>
+            <p n="2">2. Their second agreement is in the manner of their invasion, which is by surprizall.</p>
+            <p>The Septuagint relates the drunken sleep of <hi>Lot</hi> in the Mascu<g ref="char:EOLhyphen"/>line, <hi>He perceived not when he lay down.</hi>
+               <note place="margin">Gen. 19.33.</note> The same is affirmable of the most sober, <hi>No man can tell how or when he falls a<g ref="char:EOLhyphen"/>sleep.</hi>
+            </p>
+            <p>Nor can any man tell me after what manner, or at what time he shall die. That we cannot live long, is most infallibly certain; how long we shall live as highly uncertain. <hi>Rupertus</hi> observes when God pronounced the sentence of death on <hi>Adam,</hi> (a blacker Theta was never fixed on any forehead) <hi>Dixit indefi<g ref="char:EOLhyphen"/>nitè, till thou return unto the ground;</hi>
+               <note place="margin">Gen. 3.19. <hi>Prudens futuri temporis exitum caliginosa nocte premit Deus.</hi> Hor. l 3. od. 29.</note> he said not till thou hast filled so many set yeares, or dayes, but indeterminately—<hi>Till the time come</hi>— come it when it will. His wisdome hid that knowledge in that thick darknesse which clouds him from mor<g ref="char:EOLhyphen"/>tall eyes; So that <hi>day and hour knoweth no man.</hi> What wise Prog<g ref="char:EOLhyphen"/>nosticator (that dares bespeak the event of Battails, and the pe<g ref="char:EOLhyphen"/>riods of Kingdomes) can tell whether he shall die on his bed or on a tree? Alas! <hi>Death comes in an hour when ye think not,</hi> Luke 12.40. <hi>in a day he looketh not for him,</hi> v. 46. <hi>When they shall say peace, peace, then sudden destruction cometh upon them,</hi> 1 Thes. 5.3.</p>
+            <q>
+               <l>— Dum bibimus, dum serta, unguenta,<note place="margin">Juvenal. Sat. <hi>9.</hi>
+                  </note> puellas</l>
+               <l>Poscimus, obrepit non intellecta senectas.</l>
+            </q>
+            <p>
+               <hi>In the midst of life we are in death, and in a moment goe downe to the grave,</hi> Job. 21.13. Sometimes the Wombe be<g ref="char:EOLhyphen"/>cometh the Tombe,<note place="margin">1 Sam. 4.20.</note> and preposterously we die before we are born; sometimes the Child-bed proves the Death bed, as to <hi>Eli</hi>'s daughter-in-law; and so are we Parricides in the birth, and Murtherers from the beginning. Sometimes the Wedding-sheets serve for the Winding-sheets, as to <hi>Raguells</hi> seven sons-in-law,<note place="margin">Tobit 3▪ 8.</note>
+               <pb n="14" facs="tcp:173130:13"/> and to <hi>Sophonisba,</hi> who tasted the bitternesse of Death in the sweets of the Marriage-bed.<note place="margin">2 Sam. 13.28.</note> Sometimes Death meets us at the table; <hi>Ammon</hi> is kill'd when his heart was merry with Wine: and not seldome do men poure in others healths, till they are forced to vomit up their own lives.<note place="margin">
+                  <hi>Lotus nobis<g ref="char:EOLhyphen"/>cum est, hilaris caenavit, &amp; in<g ref="char:EOLhyphen"/>ventus mane est mortuus An<g ref="char:EOLhyphen"/>dragoras.</hi> Mart. l. 6. Epist. 53. S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Iob 21. v. 23, 24, 25.</note> He that conquered the world, was overthrown with a Goblet of Wine. <hi>Andragoras</hi> bathes, and sups, and sports it with his friends at night, and is dead in the morning. So <hi>Holofernes</hi> being sunk with Wine, is drowned in Blood: Death may seize us in the treachery of a Salutation, so <hi>Joab</hi> complements with <hi>Abner,</hi> and <hi>Judas</hi> be<g ref="char:EOLhyphen"/>trayes our <hi>Jesus</hi> with a <hi>Kisse.</hi> Nay Death may meet you at the Sanctuary of life, for the same <hi>Joab</hi> was slain at the Altar, and an Emperour was poysoned in the Sacrament:<note place="margin">
+                  <hi>Herod, Acts</hi> 12. <hi>Adrian</hi> the 4th.</note>
+               <hi>Let</hi>'s Wife loo<g ref="char:EOLhyphen"/>ked back, and never more looked forward: a King was killed by a Louse, and a Pope choked with a Fly. The accidents of every day discover the certainty of this uncertainty, — <hi>That man knoweth not his time,</hi> Eccles. 9.12.</p>
+            <p>
+               <note place="margin">De Trinit. l. 3.</note>The use of this S. <hi>Bernard</hi> and <hi>Rupertus</hi> give us, <hi>Ʋt semper solicitum reddat,</hi> the uncertainty of Sleep by Death should be<g ref="char:EOLhyphen"/>get a certain watchfulnesse in Life: a Watch more jealous than besieged Cities keep, when they have their eares open to all alarmes, and eye open to each approach and single motion of the enemy. <hi>Parmenio</hi> greatly wondred to see <hi>Alexander</hi> sleep when <hi>Darius</hi> was in view with<note n="*" place="margin">
+                  <hi>Rawl.</hi> Hist. l. 4. c. 2. ss. 9.</note> 14 hundred thousand men in armes, all ready to dispute a title to the <hi>Persian</hi> Empire in <hi>Ar<g ref="char:EOLhyphen"/>bela</hi>'s battail. How much more of amazement may it raise in us, to see the drowsie world so sleepy in the very jawes of more, and more cruell spirituall enemies? When not our estate, but souls are on the hazard; When the Kingdome (not of <hi>Persia</hi>) but of <hi>Heaven,</hi>
+               <note place="margin">1 Tim. 6.11.</note> depends upon the welfare of this present. Can we see our Neighbours taken and beaten by Death, even before the Judgement Seat of God, as unconcern'd, as <hi>Gallio</hi> look'd on <hi>Sosthenes,</hi> and cared for none of those things, <hi>Acts</hi> 18 17 Shall the Harbingers of death, Aches, Infirmities, and Changes, seize on us, yet we not hear the sound of their Masters feet be<g ref="char:EOLhyphen"/>hinde them, 2 <hi>Kings</hi> 6.32. 'Twas <hi>Ephraim</hi>'s fault to have gray haires here and there, and know it not, <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</hi> 7.9. But it was <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>'s wisdome by the fall of his leaf, to judge the approach of
+<pb n="15" facs="tcp:173130:13"/> his winter. Shall the second coming of Christ to Judgement in Fire, find the world as s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cure as his first coming to judgement in Water? <hi>Luke</hi> 17.27. forbid it Religion; since Death waits every day to change us, let us as <hi>Job,</hi>
+               <note place="margin">Iob. 14.14. Mark 13.33.</note>
+               <hi>All the dayes of our appointed time wait till our change come. Let us not sleep as do others; but watch and pray for ye know not when the time is.</hi> Death as a Ba<g ref="char:EOLhyphen"/>silisk kills with his sight, but if foreseen by man, he dies himself: If we aprehend Death before it apprehend us, we kill Death by dying; For a man prepared for death, <hi>is not dead but slee<g ref="char:EOLhyphen"/>peth.</hi>
+            </p>
+            <p n="3">3.<note place="margin">Hippoc. Somnum à deo factum non so<g ref="char:EOLhyphen"/>lum ad corporis recreationem, sed <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iam ad animae libertatem. <hi>Scal. exer. 286.</hi>
+               </note> Their third Parallel is in their advance and extent of their invasion, which is no farther than the body. <hi>Corpore dormien<g ref="char:EOLhyphen"/>te anima insomnis agit.</hi> Sleep captives the body only, &amp; makes no conquest on the soul. The Body fetter'd by sleep upon the bed, the Soul in her imaginative chariot is transported in an un<g ref="char:EOLhyphen"/>bounded liberty, conversing with the far remote, the dead, An<g ref="char:EOLhyphen"/>gels, and not seldome with God himself.</p>
+            <p>Thus Death in any shape conveyed, if in the close insinuation of a penetrative Poyson, or in the open violence of a clamorous Canon, or by what instrument soever the wit of Cruelty did ever invent, yet can it but kill the body,<note place="margin">Luke 12.4.</note> but not able to kill the soul; <hi>Mat.</hi> 10.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8. that is an immortall substance, breathed by God into man to make him a living soul, <hi>Gen.</hi> 2.7. and when man becomes a dead body breathed out again to God, <hi>Eccl.</hi> 12.7. <hi>The dust shall return to the earth as it was, and the spirit to God that gave it.</hi> Sathan's commission terminated in the body, <hi>Job</hi> 2.6. and the soul is not left in the grave, <hi>Psal</hi> 16 10.<note place="margin">Si anima ignis est, in caelum de<g ref="char:EOLhyphen"/>bet eniti ne ex<g ref="char:EOLhyphen"/>tinguatur, hoc est ad immo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>talita<g ref="char:EOLhyphen"/>tem <hi>Lact. l. 2. Luke 23.46. Acts 7.56.</hi>
+               </note> Upon this account Death in the ancient stile is called a Sacrifice, wherein the earthy part falls down to ashes on the earth, and the spiri<g ref="char:EOLhyphen"/>tuall climbs heaven-ward in the active flame. Why e se did wise and pious men commend their souls into the hands of God as a faithfull Creator, as the blessed Jesus; and the leader of the Army of Martyrs, but that they are in a safe &amp; centrall life? <hi>For he is not the God of the dead, but of the living,</hi> Matth. 23.32. Have ye not seen the Sun dart forth a beam (a little <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hild of Light) and anon to suck it in again? And is not that beam as safe and lively in the body of the Sun, as when it was display'd in the aire? So when God sends forth a soul into us, and again
+<pb n="16" facs="tcp:173130:14"/> calls back that soul to himself, is not that soul as safe in the hand of God as it was in the body of Man? He must have forfeited both Faith and Reason that dares deny it. <hi>David</hi> implyes no mean danger of death, when he sayes, <hi>My soul is in my hand,</hi> Psal. 119.109. but when he commends his soul into the hands of God, <hi>Psal.</hi> 31 5. he is safe as the eternall life: which certain<g ref="char:EOLhyphen"/>ty of eternall life after death, S. <hi>Paul</hi> hath confirmed by affix<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng it to the condition of Christs soul after the Resurrection. <hi>Christ died for us,</hi>
+               <note place="margin">1 Thes. 5.13.</note>
+               <hi>that whether we wake or sleep we should live to<g ref="char:EOLhyphen"/>gether with him.</hi> Not sleep, but live, that is, doe the acts of a li<g ref="char:EOLhyphen"/>ving spirit. Tell me, was <hi>Abel</hi>'s soul slain with his body? whence then the voice of his blood,<note place="margin">Gen. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10.</note> which is the receptacle of a spirit? were they (as the <hi>Italian</hi> threatned his enemy) run through bo<g ref="char:EOLhyphen"/>dy and soul, who were slain for the Word of God? <hi>Rev.</hi> 6 9. sure then they could never have cryed with a loud voyce for vengeance, <hi>ver.</hi> 10. If S. <hi>Paul</hi> upon his dissolution could not have been with Christ, it had been far better not to have been dissolved, <hi>Phil.</hi> 1.23. <hi>And if in this life onely we have hope, we are of all men most miserable.</hi> The Miser and the Epicure (who have their portion in this life,<note place="margin">1 Cor. 15.19.</note>
+               <hi>Psal.</hi> 17.14.) are not onely the wiser, but the happier people: But <hi>ridendi sunt,</hi> saith <hi>Jerom,</hi> they are to be derided, I think rather much to be lamented, who to con<g ref="char:EOLhyphen"/>tinue a beastly life, think they shall end in the death of a beast, soul all and body at once. No; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> life and soul are inse<g ref="char:EOLhyphen"/>parable; and though the soul may for a time be absent from, yet never extinguished with the body: but when Christ calls, all our spirits (as hers in the text) shall return, <hi>Her spirit was living, it came again,</hi> v. 55.</p>
+            <p>
+               <note place="margin">See <hi>Causins</hi> H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly Court. Maxim 16.</note>If yet there be any soul so brutish, so swinish, that after satisfaction he may receive from the writings of Heathens, the dictates of Reason, and authority of Scripture, will ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wilfully deny the deathlesnesse of the Soul; I confesse with <hi>Pi<g ref="char:EOLhyphen"/>neda— Cum hoc non verbis sed fuste agendum</hi>— the best confuta<g ref="char:EOLhyphen"/>tion of such a one is to put him to death,<note place="margin">in Eccles c. 12.</note> that he may in h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll confesse with horrour, what on earth he denied with plaisance But if there be any spark of Ingenuity within us, let me kind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it into an assent by that art which <hi>Alamandurus</hi> a King of the <hi>Saracens,</hi> used to confute the <hi>Eutychean</hi> Heresie. This Heres<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:173130:14"/> held that the Divine Nature of Christ suffered Death upon the Crosse together with his Humane; and this Heresie much pe<g ref="char:EOLhyphen"/>stred his Court. He to suppresse it, gave free liberty to a pub<g ref="char:EOLhyphen"/>lick Dispute; but before hand appointed a Post to be dispat<g ref="char:EOLhyphen"/>ched to him with a packet: in the midst of the disputation brea<g ref="char:EOLhyphen"/>king the Letters, and reading himself into a sadnesse the Court<g ref="char:EOLhyphen"/>faction that were Hereticks desired the reason; he sadly tels them, this packet came from heaven, with the heaviest newes could fall on his nation; for, said he, <hi>Michael</hi> the Archangel and our Prince is dead. The Hereticks tell him that one or other had imposed on him: for say they, <hi>Michael</hi> is an Angel, and An<g ref="char:EOLhyphen"/>gels are Spirits, and Spirits are immortall, they never die. Oh! replyed the King, if Angels cannot die, sure God who is a Spirit cannot die, and so surprized them into an acknow<g ref="char:EOLhyphen"/>ledgement of the truth. So say I, Souls are Spirits, and there<g ref="char:EOLhyphen"/>fore cannot die.</p>
+            <p>Awake therefore thou that sleepest, and dream not whilst thou livest, that thy soul shall die when thou art dead: for as soon as she departs the prison of the body, either she ascends an a<g ref="char:EOLhyphen"/>ctive sphere of joy, and pleasure, and glory, or descends into a passive hell of horrour and torment, as unexpressible as it is un<g ref="char:EOLhyphen"/>avoidable: the soul is either a Brand in hell, or a Star in hea<g ref="char:EOLhyphen"/>ven immediately upon her expiration, and that for ever. <hi>Laza<g ref="char:EOLhyphen"/>rus</hi> staid not for his comfort, nor <hi>Dives</hi> for his torment till the last day.— <hi>But now,</hi> saith <hi>Abraham</hi> as soon as they were dead, <hi>but now he is comforted, and thou art tormented.</hi> Luke 16.25.</p>
+            <p>Seeing therefore such a diverse entertainment waits us at the gates of death,<note place="margin">2 Pet. 3.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>What manner of persons ought ye to be in all holy conversation and godlinesse?</hi> How should your Charity <hi>make to your selves friends of the mammon of unrighteousnesse,</hi>
+               <note place="margin">Luke 16.9.</note>
+               <hi>that when ye fail, they may receive you into everlasting habitations.</hi> What spirituall prov<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dence to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et Oyl into our lamps, and a Wedding garment on our backs, that we be not left either in nakednesse or darknesse? When S. <hi>Austin</hi> would open the fountain of all disturbances in this world, and miseries <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the next, he sayes it is because men do <hi>uti datis tanquam innatis.</hi> the mis-placing of immortality is all; the volup<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uous removes it from the soul, and
+<pb facs="tcp:173130:15"/> the covetous place it on the body, or goods, or both, though they speak it not out, yet <hi>their inward thoughts are, that their houses shall continue for ever,</hi> Psal. 49 11. Hence proceed those cares and labours,<note place="margin">Nil non mortale tenemus, Pectoris ex<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ptis ingenii que bonis.</note> those frauds and violences in the world to se<g ref="char:EOLhyphen"/>cure our interests here. But (beloved) the soul onely is immor<g ref="char:EOLhyphen"/>tall; the world may leave us whilst we live, but we must leave it when we die: be it our care to use all holy arts, to lay out our dayes in all devout preparations, to secure our eternall inte<g ref="char:EOLhyphen"/>rests.<note place="margin">John 6.27.</note>
+               <hi>Labour not for the meat that pe isheth,</hi> lest you perish for your labour, <hi>but for that which endureth unto everlasting life;</hi> for it is the body onely, not the soul, which is not <hi>dead</hi> but <hi>sleepeth.</hi>
+            </p>
+            <p n="4">4. A fourth proportion is in their government, which is like that of <hi>Solomon— in rest on every side,</hi>
+               <note place="margin">1 Kings 5.4. <hi>Ovid</hi> met. 11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phem. h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mno in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omnum. T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>{que} o donicor somne laborum,</hi> &amp;c. Sen. Here. fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eccles. 9▪ Iam 4 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <hi>Somnus quies reru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the toyles and cares of the day are slumbered all in the quiet of sleep at night. Our life is a day of travail and vexation: Death is the night wherein are buried all our cares and labours. Man is (as I have said) Misery, then Death which is the end of man, must be the end of Misery. <hi>Al their love, and their hatred, and their envy, is now perished,</hi> said <hi>Solomon</hi> of the dead. Those wars and fightings arising from those lusts, have not onely a cessation, but an oblivion and fi<g ref="char:EOLhyphen"/>nall peace in the grave. The ratling murmur of the drummes, and trumpets surly noyse, fright not the dead; the artificial lightning and mimick thunder of the gun nothing disturbs the quiet of the grave.<note place="margin">Chrysost.</note>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, dead men do not bite; op<g ref="char:EOLhyphen"/>pression, revenge, and cruelty, are not the businesse of our car<g ref="char:EOLhyphen"/>kasses; <hi>There</hi> (saith <hi>Job,</hi> pointing to the grave) <hi>the wicked cease from troubling;</hi>
+               <note place="margin">Job 3.17.</note>
+               <hi>There the prisoners rest together, they hear not the voice of the oppressour, and the servant is free from his master, the labourer complaines not of the heat and burden of the day, nor the fisherman of toyling all night to catch nothing, for there the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are at rest,</hi>
+               <note place="margin">Luke 5.5.</note> as <hi>Job</hi> affirms. Nay that Christian duell, those un<g ref="char:EOLhyphen"/>extinguishable skirmishes in the breasts of Saints, between the flesh and the spirit whilst we live, are determined into a cessation by the hand of the grave. Could I present you an inventory of all those sins and sorrowes, those anxieties and cares, that swe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and labour, those troublesome attendants on the heirs of <hi>Adam</hi>'s
+<pb n="19" facs="tcp:173130:15"/> curse, through this vale of misery: we should easily confesse with <hi>Rupertus,</hi> that it was not <hi>Iratae justitiae,</hi>
+               <note place="margin">Pater miseri<g ref="char:EOLhyphen"/>cors illis mertae<g ref="char:EOLhyphen"/>lia faciebat vin<g ref="char:EOLhyphen"/>cula. <hi>Plato in Timaeo.</hi>
+               </note> but <hi>miserantis gra<g ref="char:EOLhyphen"/>tiae,</hi> an act not of Judgement, but Grace, that sinful man was made mortal: And with <hi>Pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tinus</hi> say—<hi>pater misericors,</hi>— the Lord was great in mercy when he made our dayes few in mise<g ref="char:EOLhyphen"/>ry: Of <hi>Issachers</hi> judgement all, <hi>who saw that rest was good,</hi> Gen. 49.15. We should flie to S <hi>Paul</hi>'s <hi>cupio dissolvi,</hi> and desire to be dissolved with higher appetite than Misers court gold, or the embossed Hart the springs, the sweaty Labourer the shadow, or the wearied sleep, which to the labourer is sweet. Since here we not onely rest from our labours, <hi>Rev.</hi> 14.13. as oxen unyoak'd, but in all most eminent and sweet advantage, we rest in hope,<note place="margin">Psal. 16.9.</note> that is, in hope to rise again, which is another agreement 'twixt Sleep and Death.</p>
+            <p n="5">5. The next agreement is in the expectation of rising again. This admits three observations.</p>
+            <p n="1">1. Men lye down at night with design to awake on the morrow: so we make the beds of the dead in the dark, &amp; lay them down— <hi>in sure and certain hope of resurrection to eternal life.</hi>—Christ was the first-born from the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad, and <hi>my flesh shall rest in hope,</hi> that he will daign me the priviledge of a younger brother, to <hi>rise after him. Cur desperabo quod poterit in me, quod demonstravit in se,</hi>
+               <note place="margin">Aug.</note>
+               <hi>propter me?</hi> If Christ when he was dead could raise himself, I doubt not but being alive he can draw me to him. It is an Ar<g ref="char:EOLhyphen"/>ticle of my Creed, and needs no other explanation to invite be<g ref="char:EOLhyphen"/>lief, than what our Church saith, It may be proved by most cer<g ref="char:EOLhyphen"/>tain warrants of holy Scriptures: yet to satisfie the curious questionist, S. <hi>Paul</hi> descends to a naturall illustrat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of the an<g ref="char:EOLhyphen"/>niversary resurrection of a Corn-field, 1 <hi>Cor.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5 36, 37. and be<g ref="char:EOLhyphen"/>fools him that can see each field bring forth the grain sown in it, yet think the Church yard is the onely barren ground, as if those bodyes which are sown in the Faith, and water'd with the teares of the Church, shall not flourish as an Herb, as <hi>Esay</hi> af<g ref="char:EOLhyphen"/>firmes, <hi>Esay</hi> 66.14. and that herbs may be awakened from their ashes to their former flourishing state,<note place="margin">Quoted by Mr <hi>Gregory.</hi>
+               </note> is now no great secret in the Chymical Art, sayes <hi>Gaffarell.</hi>
+            </p>
+            <p>This hope then may revive our fainting spirits, that after a long silence in the grave we shall awake,<note place="margin">Psal. 17.15.</note> shake off the shackles
+<pb facs="tcp:173130:16"/> of the tyrant Death, and rise in triumph. We have a sure word of prophesy for it,<note place="margin">Hosea 13.14.</note>
+               <hi>I will ransome them from the power of the grave, I will redeem them from death, O death I will be thy plague, O grave I will be thy destruction.</hi> Let not the length of time a<g ref="char:EOLhyphen"/>fright you, for in death is no difference betwixt this young wo<g ref="char:EOLhyphen"/>man of twelve years old, and <hi>Moses</hi> old man of threescore and ten; all corn is not sown at one season, yet it is all ripe at har<g ref="char:EOLhyphen"/>vest: so also is the resurrection of the dead, they shall arise both small and great.</p>
+            <p n="2">
+               <note place="margin">Tertull.</note>2. Secondly, <hi>Somnus est redintegrator virium.</hi> Sleep doth not onely give rest to bodyes, but refreshment: the same body in<g ref="char:EOLhyphen"/>deed that slept doth awake, but not such as it was; it lay down a worn, wearied, spiritless trunk, but it awakes a fresh, active, and sprightly body.</p>
+            <p>So a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>so is the resurrection of the dead, as S. <hi>Paul</hi> most myste<g ref="char:EOLhyphen"/>riously discourseth, 1 <hi>Cor.</hi> 15.42.43, 44. it is sown in Corrupti<g ref="char:EOLhyphen"/>on, it is raised in Incorruption; it is sown in Dishonour, it is raised in Glory; it is sown in Weakness, it is raised in Power; it is sown a Natural body, it is raised a Spiritual body. In these words the Apostle remarks those four cumbersome defects which lessen the nobleness of this mortal life, and to each defect applies a gracious date, which glorifies the life immor<g ref="char:EOLhyphen"/>tall.</p>
+            <p n="1">1. The first is Corrup<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, which subjects the body to Diseases, the Gout, the Stone, and even to Death it selfe, and to all those punishments which God layes on sinfull bo<g ref="char:EOLhyphen"/>dyes.</p>
+            <p>Against, this is Incorruption, which is a state free from all defectiveness or dissolution; no sicknesse, no death in hea<g ref="char:EOLhyphen"/>ven, no crying out or complaining in the streets of the new <hi>Je<g ref="char:EOLhyphen"/>rusalem.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">Beza.</note>2. The second is Dishonour, that is, <hi>Decoris expers,</hi> ugli<g ref="char:EOLhyphen"/>nesse and deformity, a gate so unsupportable, that many have shortned their dayes to hide their dishonours in the grave.</p>
+            <p>To this is opposed Glory, a state of transcendent beauty; <hi>The righteous shall shine as the Sun in the firmament,</hi> Mat. 13.43. nay (when that gorgeous body of l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght shall be a Cinder) glorified bodies shall exceed that splendour seven-fold, <hi>Isa.</hi>
+               <pb n="21" facs="tcp:173130:16"/> 30.26. What an exact symmetry and proportion shall glorified bodyes have,<note place="margin">Ephes. 4.13.</note> when they arrive to the measure of the stature of the fulness of Christ! what an outward smoothnesse beyond the face of mirrours! what an inward light shining through a bo<g ref="char:EOLhyphen"/>dy of chrystall, when it shall be raised in the clarity of glory!</p>
+            <p n="3">3. The third defect accompanies the body is Weakness, a state of such infirmity, that men move slowly from place to place and waxe faint and weary: as Christ himselfe to shew the weight of a mortall body, was wearied with his journey, <hi>John</hi> 4 6.</p>
+            <p>To confute this, it is raised in Power, both of agility and cele<g ref="char:EOLhyphen"/>rity; a glorified body treads light as an Angel, and can walk on the Sea, and climb to heaven in the foot-steps of a cloud, and move nimbler then thought, and penetrate solid bodies, and all without pain or faintness.</p>
+            <p n="4">4. Whiles the body is here, it is a naturall body, that is, a bo<g ref="char:EOLhyphen"/>dy that must be maintained by eating and drinking, and preser<g ref="char:EOLhyphen"/>ved by propagation and generation; or else hunger, and thirst, and weariness will destroy it.</p>
+            <p>But in Heaven it is a Spiritual body; the Inhabitants there hunger no more, nor thirst no more, <hi>Rev.</hi> 7.16. and in the Re<g ref="char:EOLhyphen"/>surrection <hi>they neither marry, nor are given in marriage</hi> (to pro<g ref="char:EOLhyphen"/>pagate their like) <hi>but are as Angels,</hi> Mat. 22.30. <hi>The inhabitants shall not say I am sick,</hi> Esay 33.24. No weariness there—and all teares wiped away.</p>
+            <p>These are the glorious improvements, to which the sleep of death translates <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur vile bodies,<note place="margin">Phil. 3.21.</note> making them like his glorious body: the privative blessings are inestimable Jewels, freedome from Diseases: What would they give for it, who (as that wo<g ref="char:EOLhyphen"/>man) spend all on Physitians?</p>
+            <p>A delivery from Ugliness: how precious were it to those, that like Elephants loath to see their own face; or as <hi>Jesabel,</hi> use sinful arts to mend them?</p>
+            <p>Ease from Weariness is o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great price to a Traveller.<note place="margin">Plin. <hi>in</hi> Lycurg.</note>
+               <hi>Lysi<g ref="char:EOLhyphen"/>michus</hi> gave himselfe, his Army, and his Kin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dome, for one draught of water, to free himself from the tyranny of thirst. If to be unclothed of these m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>series be so valuable, how inesti<g ref="char:EOLhyphen"/>mable
+<pb facs="tcp:173130:17"/> a blessing is it to be cloathed upon with these felicities?<note place="margin">2 Cor. 5.4.</note>
+               <hi>When mortality is swallowed up of life, and corruption hath put o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orruption;</hi> that we possess for Sickness Health, Beauty for Ashes, Agility for Weariness, and Spirit for Nature; <hi>M<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> caelo non potest jungi genus,</hi>
+               <note place="margin">
+                  <hi>Sen. in Her. fur.</hi> 1 Cor. 15.50.</note>
+               <hi>Flesh and bloud cannot inherit the King<g ref="char:EOLhyphen"/>dome of God;</hi> not such as is layen in the grave, yet the same, and such as it is raised thence.</p>
+            <p>Had I now shewd a child a new gay coat, how cheerfully wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld his childish wit have put off his old rags to be new clad I H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but told him to morrow should be holy day, how willingly had he gone to bed! yet notwithstanding this precious vestu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> shewn you, how loth do <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e divest our sinfull habits! how un<g ref="char:EOLhyphen"/>willingly put off our corruptions! And though we hear of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> state of freedome and jubilee in Heaven, yet, like the degenero<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> slave, <hi>Exod.</hi> 21.5. we too plainly say we will not go out free▪ nay, as he we bring our ear to be bored, endure any hardship— <hi>Facito debilem pede, manu,</hi> hand-gout, feet-gout, <hi>Dum <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> superest bene est,</hi> so as they live it matters not, though as <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for ever. Death I confesse is t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrible, <hi>Quis enim vult <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>il prorsus nemo,</hi>
+               <note place="margin">Aug. de verb. Apost. ser. <hi>33.</hi>
+               </note> the man <hi>Christ</hi> was very sad at the approach of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; 'tis a going whither Nature would not, <hi>John</hi> 21.18. But look beyond Death, draw by this black curtain, and see what <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>hind it. Thus the same holy Christ, <hi>for the joy that was set befor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him, endured the crosse, and despised the shame.</hi> So the Martyrs cared not to be delivered, <hi>that they might obtain a better resurre<g ref="char:EOLhyphen"/>ction,</hi> Heb. 11.35. So would a man enter into the chambers of Death, and lye down willingly in the bed of the Grave, if <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> considered, that then he is not <hi>dead but sleepeth.</hi>
+            </p>
+            <p n="3">3. As a sleeping person is easily awaked by the summon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cock, the rising of the Sun, or some sudden noyse; <hi>Dem<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> tanta facilitate excitabit de sepulchro quantâ tu non excita<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mientem à lecto: The rising of the Sun of righteousnesse will <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the dead bodyes,</hi> as we have an essay, Mat. 27.52, 53. <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> are in the grave shall hear his voice, and shall come forth</hi> Job. 5.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>suddenly, and easily, in a moment, in the twinkling of an <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st trump; for the trumpet shall sound, and the dead shall be raised incorruptible,</hi> 1 Cor. 15.52. What should hinder it? <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> length of dayes; whether the body sleep longer than <hi>E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+               <pb n="23" facs="tcp:173130:17"/> or lesse while then <hi>Adam</hi> while <hi>Eve</hi> was forming, is not considerable to an agent that works not by time. Not the mul<g ref="char:EOLhyphen"/>titude, since the Nations are but as the drop of a Bucket to him:<note place="margin">Esay 40.15.</note> he that rose out of his sealed Sepulchre, without so much noise as to waken the Watch, will unlock our marble Tombes, and call our bodies thence as easily and indiscernably, as he made them in the Wombe, though our bodies were buried in the Sea, coffined in the maw of Fishes, consumed in flames to ashes, though a Leg were lost here, and an Arm in <hi>Tartary;</hi> yet <hi>reso<g ref="char:EOLhyphen"/>lutio sit in elementa,</hi> thou dost but returne to the dust from whence thou camest; from whence he may as easily say,<note place="margin">Psal. 90.3.</note>
+               <hi>Come again ye children of men,</hi> as at first he did in the Creation. Nay, couldst thou sink to nothing, the Almighty Arm can as easily make thee something, as at first it made all things of nothing. Thus shall we at last as insensibly awake, as at first we sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt, for how dead soever a Corps appears to the judgement of Man, yet in the judgement of God it is not dead, but onely sleepeth.</p>
+            <p>Collect all this, that Life is short and miserable, that Death is universall, uncertaine, yet reacheth but to the body, that it is quiet, easie and peacefull; that the body shall awake to a state of high advantage, of eternall health, beauty, strength, and Angelicall perfection; thas this arising shall not be as a Man<g ref="char:EOLhyphen"/>drake, shreeking and painfull, but gentle, at the noise of a Mu<g ref="char:EOLhyphen"/>sicall instrument, a Trumpet; consider this, and there needs no screw to draw in the next part, <hi>Weep not.</hi>
+            </p>
+            <p>
+               <hi>Weep not.</hi> This (I said) is the mourners comfort, to im<g ref="char:EOLhyphen"/>prove it into practice, thereby to lessen the number, or to ligh<g ref="char:EOLhyphen"/>ten the weight of their mourning. I professe my self unfurnish<g ref="char:EOLhyphen"/>ed of any other Argument, then the numberlesse felicities and weight of glory, which crown those that are not <hi>Dead</hi> but <hi>Sleep.</hi>
+            </p>
+            <p>
+               <hi>David</hi> upon news of his innocent childs death, and well per<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ded that of such is the Kingdome of Heaven; declines the act of weeping, and the posture of sadnesse, and arose from the earth, and washed and anoynted himself, and changed his Ap<g ref="char:EOLhyphen"/>parell and passion too, 2 <hi>Sam.</hi> 12.20. his Courtiers who admire this alteration, he satisfies with two Authentick reasons, <hi>v.</hi> 23. first the vanity of tears for the dead, <hi>can I hring him back again?</hi>
+               <pb n="24" facs="tcp:173130:18"/> the voice of we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ping recalls not departed Souls. Secondly, a joyfull apprehension of their glorious state, reflecting a con<g ref="char:EOLhyphen"/>fidence on his Soul to enjoy the like, <hi>I shall goe to him;</hi> I see Heaven open, and after death <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall be as happy as he that is gone before, therefore I weep n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>Yet because whilst we live in this valley of Tears, naturall affection will so far prevaile upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Reason, that even the Father of the Faithfu l, when he was to sow his nearest relative in the Earth, cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not but water it with a showr from his eyes. <hi>For Abraham came to mourn for Sarah, and to weep for her. Gen.</hi> 23.2. And because relations in Nature are like Members in the Body, the remaining Member weeps carnation teares for that which is cut off; and good men adjudge it their duty to pickle up the memory of their departed friends in the brine of their own eyes,<note place="margin">1 Thes. 4.13.</note> so to pres<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rve it; <hi>That therefore ye sorrow not as others that have no hope.</hi> Observe that Antheme which <hi>Esay</hi> hath set, for a Christian parentation to be sung at the grave, <hi>Isa</hi> 26 19.<note place="margin">Isa. 26.19.</note>
+               <hi>Thy dead men shall live,</hi> (that is the leading voice by the Prophet) <hi>together with my dead body shall they arise,</hi> (that is the Counter tenor sung by Christ); <hi>Awake and sing ye that dwell in dust</hi> (that is the <hi>Chorus</hi> song by the whole Qui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in Heaven) there is not a word in it, but if seriously weighed, will turn our sorrow into joy. 1. That Men shall be dead, not alwaies lye under the pressures and miseries of this life. 2. That they are <hi>Thy Dead,</hi>
+               <note place="margin">Dabit deus his qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que-finem.</note> that is, God owns them. 3. They shall not st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll continue in the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shonours of the grave, but shall live againe. 4. That we have so good security for it as to rise with Christ; w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th him, though not in time, yet with him in power, and with him in glory: the man hath no sense, no relish of Hea<g ref="char:EOLhyphen"/>ven, that sings not upon these appr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hensions, at least sayes not to himself▪ <hi>Weep not.</hi>
+            </p>
+            <p>Attend the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Christ spake to a Woman after his Re<g ref="char:EOLhyphen"/>surrection,<note place="margin">Joh. 20.15.</note> was it not, <hi>Why weepest thou? Joh.</hi> 20.15. Indeed before <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hrist had opened the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tes of D ath, <hi>Mary,</hi> nay the whole world (which say the F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers was representative in her) had cause enough to w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ep. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut now Chr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> head was rise<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and had made way for all h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Members to follow; now Jes<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> had beaten Death at his own weapon, and kill'd it by dying
+<pb facs="tcp:173130:18"/> since he hath changed the Grave into a Bed, Death into Sleep, and made the Land of Darknesse the ready way to the place where Light dwelleth. Teares are b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th unreasonable and un<g ref="char:EOLhyphen"/>seasonable, <hi>Why weepest thou?</hi> is as much as <hi>weep not.</hi>
+            </p>
+            <p>Considerable are the <hi>Syren</hi> and the <hi>Swan,</hi>
+               <note place="margin">Aelian. Var. Hist. l. <hi>2.</hi> c. <hi>32.</hi>
+               </note> whose different fate is thus: the <hi>Syren</hi> sings away her life in wanton ayres, and charms of Lust, the treacherous inticements to destruction,<note place="margin">
+                  <hi>Et lug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bunt quasi filiae Sir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>num.</hi> Hieron. in Mich. c. 1. Tom. 5. p. 331.</note> but when she dyes, she breaths out her soul in howlings, sighs and sobs, in pangs and horror. The <hi>Swan</hi> who spends her dayes in innocence as white as her livery, in pensive notes of sadnesse, mournfull and black as her feet, when she dyes she expires in joyfull Anthemes, the voice of joy and gladnesse.</p>
+            <q>
+               <l>Sic ubi fata vocant, udis abjectus in herbis,<note place="margin">Ovid. Epist. 7.</note>
+               </l>
+               <l>Ad vada Maeandri, concinit albus Olor.</l>
+            </q>
+            <q>
+               <l>So when Death cals the aged Swan from streams;</l>
+               <l>She dying, sings her own glad Requiems.</l>
+            </q>
+            <p>A wanton life ushers in a wailfull death, but an innocent life ends in a joyfull death; they who laugh all their life, may weep at their death, but who weep in their Lives, at their Deaths weep not.</p>
+            <p>Good people, had you the Reversion of a rich Living,<note place="margin">
+                  <p>Hic fletus non habet pietatem. <hi>Hieron. ad Ty<g ref="char:EOLhyphen"/>ras.</hi>
+                  </p>
+                  <p>Improbius nihil his fletibus esse potest. <hi>Mart. l. 10. Ep. 71. Luk. 23.2.</hi>
+                  </p>
+               </note> or Of<g ref="char:EOLhyphen"/>fice, would you weep because it is faln into your possession? <hi>Invidi non amantis,</hi> 'twere more of Envy then Love to bewaile an earthly happinesse. I close, as Jesus to the Daughters of <hi>Jerusalem, Weep not for me, but weep for your selves,</hi> not for me that am dying, but for your selves that are living; for your selves that have refused my Doctrine, despised your Saviour, condemned your innocent and righteous Prince; for your selves, over whose heads a cloud is teeming with the heaviest wrath that ever fell upon a Nation; for your selves who will not own your God on Earth, and therefore shortly not to be own'd by your God in Heaven; and he that would now have bought you with his blood, will shortly sell you to an utter and irreversible desolation. For the sins and sufferings of the living, I confesse, there is weeping work enough for him who hath <hi>Jeremies</hi> wish,
+<pb facs="tcp:173130:19"/>
+               <hi>His head a fountain of teares to weep day and night:</hi> But for the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad that dye in the Lord weep not. <hi>Weep not, she is not dead but sleepeth.</hi>
+            </p>
+            <p>
+               <hi>The Application,</hi>
+            </p>
+            <p>Being already partly discharged in parcels, the remaining summe which we will put to use, that you may have Interest in it, and profit by it, is onely this humble advice w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich I have borrowed from <hi>Plato. Sic ad somnum proficisci corporibus affe<g ref="char:EOLhyphen"/>ctis ut nihil sit quod arimo perturbationem aff rat;</hi> Since the fate of Rest in the state of Separation, and happ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nesse, at meeting again of Soul and Body, depends upon the holinesse at parting: let us be composed in both, that neither the disorder of the Bo<g ref="char:EOLhyphen"/>dy, nor multitude of businesse, either ill done, or undone, may disturbe the quiet of the Soul, and give her occasion to say to the Body, as the discontented Lover to his affected. <hi>In me no<g ref="char:EOLhyphen"/>stra Ven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s noctes exercet amaras;</hi>
+               <note place="margin">Properi l. <hi>1.</hi> eleg. <hi>1.</hi>
+               </note>
+               <hi>Thou searchest me with Dreams, and terrifiest me with Vision, Job.</hi> 7.14.<note place="margin">Iob 7.14.</note> For the memo<g ref="char:EOLhyphen"/>ry of every unrepented sinne (though the Body sleep in the Grave) lodges the Soul in a bed of Scorpions, which sting her with plagues as incessant, as invisible, and as insufferable as either.</p>
+            <p>To procure rest, the Physitian may apply <hi>Mandragora</hi> and <hi>Opium,</hi> may administer a cup of slumber to stupifie his Patient, but the Divine must give more active and stirring potions. Therefore,</p>
+            <p>First know, that he who will sleep well at night, must not sleep much in the day. Sleep not the sleep of Death, <hi>i. e.</hi> sloth and security in your life, that you may sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ep the sleep of life in Death.<note place="margin">2 <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am.</hi> 11.2.</note>
+               <hi>Davids</hi> once sl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eping by day, disquieted many of his nights rests afterward. Watch whilst y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u live, and you shall sleep when you dye. Sleep is a shutting up the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nses of the Soul, and watching a freedome of the r exercise upon their proper ob<g ref="char:EOLhyphen"/>jects: Now that no other obj ct might claim any sence, ob<g ref="char:EOLhyphen"/>serve how <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he blessed Jesus hath apted himself to each; to the Eye he is<note n="a" place="margin">Ioh 10.8.</note> Light, to the Eare the<note n="b" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1</note> Word, to the Smel his name is<note n="c" place="margin">Cant. 1.3.</note> Oyntment, to the Taste<note n="d" place="margin">oh. 6.35.</note> Manna, to the Touch he hath a<note n="e" place="margin">Heb. 10.5.</note> Body: Thus unlesse your Soul doth wilfully lock up her
+<pb facs="tcp:173130:19"/> Cinque-ports, she may see, or hear, or smell, or taste, or touch a Jesus; let your Soul exercise her sense on her Saviour, and her Saviour will suffer no sinne to exercise its sense on the Soul.</p>
+            <p n="2">2. Before men goe to Bed they put off their Cloaths, or else they sleep both unhandsomely and uneasily. So let your Souls divest those habits which sinne and custome hath too long made fashionable. Habits of the Body are 1. Garments, 2. Arms,<note place="margin">
+                  <hi>Vestes, aerma, Infulae.</hi> Ps. 109.18. Iude 23. Isa. 9.5</note> 3. Ornaments. Hath any one cloathed himself with cursing? or worn the Garment spotted with the fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh in Saint <hi>Jude?</hi> or that rolled in Bloud in <hi>Esay.</hi> 9.5? or the poor mans taken to pledge, or made Aprons of excuses as <hi>Adam?</hi> unstript, and that early too! <hi>Caesar</hi> the <hi>Praetor</hi> dyed whilst he was putting off his Shoos; 'tis forgetfulnesse to goe to Bed with any Garment of the day about you.</p>
+            <p>For armes,<note place="margin">Rom. 6.13.</note> if any one hath made the Members of his Body the weapons of unrighteousnesse to sin,<note place="margin">Cap 3.</note> or us'd his tongue as a sharp sword, that hath wounded the honour of God, or his Neigh<g ref="char:EOLhyphen"/>bour. <hi>Put off those Hostilities,</hi>
+               <note place="margin">1 Pet 2.</note>
+               <hi>yea and those Lusts which war against the Soul:</hi> Then Ornaments, which are the Pomps and Vanities of this sinfull world. If any one hath as <hi>Tamar,</hi> put on whorish attire to draw in the passenger, they must, as she, <hi>Gen.</hi> 38.19.<note place="margin">Gen. 38.19.</note>
+               <hi>Arise and depart, and lay by her vail from her. Nemo enatat cum sarcinis;</hi> Encumbred people cannot sleep.</p>
+            <p n="3">3. Lastly, good men before they goe to bed they alwaies pray. Saint <hi>Paul</hi> adviseth, <hi>Pray alwayes,</hi>
+               <note place="margin">1 Thes. 5.17.</note> though not with the Lip, yet with the Life; for as Prayer is a good work, so every good work is a Prayer. Set Prayer is condemned by some as Lip-labour. Extemporary Prayer is blamed by others as Brain-labour, but Life-prayer is praised by all as heart-labour:<note place="margin">In manu opera in ore locutio fo<g ref="char:EOLhyphen"/>let intelligi. <hi>Greg. Mor.</hi>
+               </note> The lifting up the hands (that is, our works) which at once pleaseth God, and perfumes the company. When survivors see a Soul that hath lived long in this Region of holy Duty, to ascend to Heaven as the Angel, <hi>Iudg.</hi> 13.20. <hi>In the flames of the Altar,</hi> their Charity and hopes are sufficiently instructed to say, <hi>Nolite flere. Weep not, she is not dead but sleepeth.</hi>
+            </p>
+            <pb facs="tcp:173130:20"/>
+            <p>
+               <hi>The Character.</hi>
+            </p>
+            <p>I have done with the Text that I brought hither to you, and now apply my self and discourse, to that Text that brought you hither to me; from that I presented to your Eares, to that pre<g ref="char:EOLhyphen"/>sented to your Eyes: I close the book of Life, and now open the book of Death.</p>
+            <p>So Saint <hi>Ambrose</hi> interr'd <hi>Theodosius; Nazianzen,</hi> the im<g ref="char:EOLunhyphen"/>mortall <hi>Athanasius;</hi> and Saint <hi>Hierome,</hi> the excellent Lady <hi>Marcella:</hi> nay, Saint <hi>Iohn</hi> hath taken short notes of a Sermon made by Christ at the Funeral of <hi>Lazarus, Ioh.</hi> 11.12, 13, <hi>&amp;c.</hi> wherein are discourses of Faith, resurrection and Glory, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ised from the Dead, and applyed to the Living, I need no other, be cause I can follow no better precedent. Therefore hear me, or rather hear her speak, for the Dead can speak, <hi>He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 11.4.</p>
+            <p>This Consideration speak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Caution to our Conversation<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> since our Actions dye not with our Persons, but are recorded in the Leaves, and published by the Lips of Fame, it should provoke as to walk circumspectly, as Wise, not as Fools, the our Survivors track us not in irregular strayings, that there be no great blots in our history. <hi>Plutarch</hi> reports a strange wantonnesse in some <hi>Milesian</hi> Women, who in a corrupt pro<g ref="char:EOLhyphen"/>digality of their lives, would, without any reason or provoc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, be their own Executioners, and made it a fashion to ha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> themselves against Reason, Counsel, and Nature, untill, the <hi>Mi<g ref="char:EOLhyphen"/>lesians</hi> decreed their naked bodies,<note place="margin">Ut eae omnes nu<g ref="char:EOLhyphen"/>dae cum eodem <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aqueo quo essent prae victae <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rentur. <hi>Aul. Gellius l. 15. 10.</hi>
+               </note> with the same halter they ended their lives in, to lye unburied on Dunghils, exposed to the scorne of men, and the sepulture of Beasts. This unhandsome usage of their bodies after death, converted that wilde humor of self-killing, into a carefull self preservation: truly, respect<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our reputation after death, is a great obligation to an holy con<g ref="char:EOLhyphen"/>versation whilst we live: the care of the living (no doubt) b<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to live and dye well,<note place="margin">Eccl. Poli. l. sect. <hi>75.</hi>
+               </note> must needs be somewhat increased, wh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they know that their departure shall not be folded up <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> silence.</p>
+            <pb facs="tcp:173130:20"/>
+            <p>Our dead Sister speaks first in the dignity of her extraction,<note place="margin">Si quid est in no<g ref="char:EOLhyphen"/>bilitate bonū, id esse arbitror so<g ref="char:EOLhyphen"/>lum ut imposita nob libu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> necessi<g ref="char:EOLhyphen"/>tudo videatur, ne à maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ram vir<g ref="char:EOLhyphen"/>tute degenerens▪ <hi>Boeth. de cons. phil. l. 3 pro. 6.</hi>
+               </note> fairly proclaim'd to you by the Herauldry of her Hearse, but fairer for in the suitable Character of her life; the worthinesse of her bir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h had no other influence on her, but to engage her to wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thiness of action, which she so nobly improved, that the vertue of her life dignified the honour of her descent; so the glo<g ref="char:EOLhyphen"/>ry she received from her father on earth, by the acts of humility and charity she enhansed to the glorifying her father which is i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heaven.</p>
+            <p>Her Beauty, which was a depositary from heaven, she beautifi<g ref="char:EOLhyphen"/>ed with so much Piety, and adorned with so much Religion, as if she had been intrusted to preserve both the lustre and the ver<g ref="char:EOLhyphen"/>tues of the celestial bodies in her Epitome.</p>
+            <p>But the beauty of her soul was a sun to this taper, from whence her starry actions received a mighty splendour.</p>
+            <p>When she spake, wisdome dictated and wit delivered, she hung her language at your ear as Jewels, much of worth in a smal bulk; and as jewels her speech<note place="margin">Speech.</note> was rich, both in lustre and in medicine; the conceits of her mirth would raise a smile, but the gravity of her conveyance commanded reverence.</p>
+            <p>Her Reproofs, like lightning, quick, but short, such as would melt the blade, yet not singe the scabbard; kill the sin, but pre<g ref="char:EOLhyphen"/>serve the sinner.</p>
+            <p>Her Promises were made in her head, but kept in her hand; as a naile fastned in a sure place, driven by Understanding, and clenched by Affection.</p>
+            <p>Her Attire<note place="margin">Her Attire.</note> neither sordid nor curious, not too early in, nor too late out of fashion; not like those Mushrome gentry, who declare their late rise from peasantry and poverty by the her aul<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y of the dirt and rags o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their back.</p>
+            <p>Her Table<note place="margin">Table.</note> was both wholsome and handsome enough to sa<g ref="char:EOLhyphen"/>tisfie the stomach of the hungry, and well enough to fancy the palate of the curious: yea when the sword had carved her meat to the fifth part, her good cheer was as much as ever.</p>
+            <p>Her Visits<note place="margin">Visits.</note> were like the Sun's, beneficial where ere she came, and treading in her Saviours steps, <hi>She went up and downe doing g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od.</hi>
+            </p>
+            <p>Her Accesse was free but not loose, her door, as her heart,<note place="margin">Neighbour<g ref="char:EOLhyphen"/>hood.</note>
+               <pb facs="tcp:173130:21"/> was open to all friends,<note place="margin">Neighbour<g ref="char:EOLhyphen"/>hood.</note> so that without much shifting the Sce<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> she would easily m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke her Ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se a Court, an Almes-house, a School, and an Hospital all in a day.</p>
+            <p>She had treatments for the greatest, who came as <hi>Agrippa</hi> and <hi>Bernice</hi> with great pomp. She had Relief for the poore<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, who as <hi>Lazarus,</hi>
+               <note place="margin">Acts 25.23.</note> lay at the gate; Instructions for the ignorant, and Charitable remedies for the sick; Christian applications for all, feeding the Hungry, cooling the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rsty, cloathing the Na<g ref="char:EOLhyphen"/>ked, visit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng the Sick, and h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bouring the Travailer; what God requires in acts of Neig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bour-hood h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re,<note place="margin">Mat 25.35, 36.</note> and reward hereafter, the whole Voyzenage can witness with me, and for her, that she was a great parallel to <hi>Dorcas,</hi> Acts 9.36. <hi>This woman was sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of good works and almes-deeds which she did.</hi>
+            </p>
+            <p>
+               <note place="margin">Phil. 4.8.</note>
+               <hi>Finally bre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report,</hi> she did them, therefore if there be any vertue or any praise, let her have it.</p>
+            <p>Her Relation as a Wife, shewes her, without disparagement, a rare example and standard to her Sex.</p>
+            <p>Society is the most precious comfort in Nature, the riche<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> jewel in her Cabinet. <hi>Adam</hi> not in perfect Paradise, not happy without it: of all societies with Man, that of a Wife is neerest, being made of his own rib; and dearest, lying in his own bosome<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>Her Aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction was great as <hi>Jonathans,</hi> wonderfull and passing the love of women. 2 <hi>Sam.</hi> 2.26.</p>
+            <p>Marriage made her husband and her one flesh, but love made them one soul. She married not onely his person, but his inte<g ref="char:EOLhyphen"/>rests and concernments, loved his loves, wished his desire, as in<g ref="char:EOLhyphen"/>separable as <hi>Ruth</hi> and her mother-in law, <hi>Ruth</hi> 1.16, 17. not to be parted but by death. She owed him an affection equ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l to her life, being often ready to lay it down for his preservati<g ref="char:EOLhyphen"/>on, as appeares by her swouning at any newes might threaten ill to him, as if her soul conceived it but duty to be bayle for her husband.</p>
+            <p>
+               <hi>The head of the woman is the man,</hi> 1 Cor. 11.3. so her husband wore the principality, she received influence from him, and g<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> conformity to him: <hi>But a vertuous woman is a crown to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r
+<pb n="31" facs="tcp:173130:21"/> head,</hi> Prov. 12.14. so she gave safety, plenty,<note place="margin">Prov. 31.11, 12.</note> and honour to her head, as <hi>Crown</hi> may signifie. <hi>The heart <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f her husband did <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>afely trust in her, she did do him good and not ill all the dayes of her life.</hi> Longer she is not obliged; — <hi>Till dea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h us depa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi>— was their agreement: Death ends her natural relation, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d enters her in<g ref="char:EOLhyphen"/>to a Divine; which she began here by her Religion.<note place="margin">Religion.</note>
+            </p>
+            <p>Her Religion was not as her Sex, Female; that is, all face and tongue, but pure and solid, not despising the form, but de<g ref="char:EOLhyphen"/>lighting in the power of godliness. She attired n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t her devoti<g ref="char:EOLhyphen"/>on as the <hi>Lacedemonians</hi> did their Gods, according to the seve<g ref="char:EOLhyphen"/>rall fashions of each city, so to gain reputation from man; but she persevered in the constant substantials of Religion, so to gain grace and favour from God. Holiness and righteousness are the summe and tenour of the Covenant 'twixt God and Man; ho<g ref="char:EOLhyphen"/>liness to God, and righteousness and just dealing tow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds Man. These two dutyes she had so learned from her two Husbands (the first being a Civilian, this last a D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vine) that she proved a very perfect proficient in both. Thus she ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing done her duty on earth, let us do our duty to her laid under it: which I leave with you n the command of Christ for his Spouse; <hi>Can<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 8.4. <hi>I charge you ô ye daughters of Jerusalem, that ye stir not up, nor a<g ref="char:EOLhyphen"/>wake her. Ye daughters!</hi> for your tongues are most busie, and most aspersive, you soonest both make faults and find f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ults, do not you awake her with loud and l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bellous d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>famat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, nor with close and corner-whisperings: let your silence suffer her errors (for who can say be is pure?) to sleep with her ashes. And if you will be st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rring, rouze &amp; awake your own drousie souls fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the sleep o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sin, that when you dy you may rest in Christ, as our h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> e is this our S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ster doth: <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at we with her and the rest departed in the true faith &amp; fear of Gods most holy name, may at the last be awakened to p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssess the consumm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te bliss both of body &amp; soul, in that state of an eternal and everlasting co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>junction in glory, which was purchased by the B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood, and is promised by the Spirit of the <hi>L<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd Jesus Christ.</hi> To whom with th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Father and holy Ghost, be glory and honour, now and for ever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
